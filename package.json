@@ -1,0 +1,18 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "description": "A complete multi-platform robot control system featuring a Node.js backend server, React web interface, and C# console application. This project demonstrates full-stack development with real-time robot simulation, physics, and cross-platform API integration."
+}
